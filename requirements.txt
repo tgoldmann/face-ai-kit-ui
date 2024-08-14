@@ -1,0 +1,5 @@
+pandas
+fpdf
+PyQt5
+face_ai_kit
+opencv-python-headless
